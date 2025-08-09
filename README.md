@@ -48,5 +48,5 @@ Simulatorul de Escape Room demonstrează că învățarea poate fi distractivă 
 
 ## 👨‍🎓 Autor
 
-**Mihăilă Maria-Alessia**  
+**Mihăilă Alessia**  
 *Anul 2024*
